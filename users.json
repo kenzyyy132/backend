@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Studio Admin",
+    "email": "admin@belleza.test",
+    "password": "Admin@123",
+    "role": "admin",
+    "phone": "+20 100 000 0001",
+    "address": {
+      "street": "14 Rose Court",
+      "city": "Cairo",
+      "country": "Egypt",
+      "postalCode": "11835"
+    }
+  },
+  {
+    "name": "Nour Ibrahim",
+    "email": "nour@belleza.test",
+    "password": "Admin@123",
+    "role": "admin",
+    "phone": "+20 100 000 0002",
+    "address": {
+      "street": "3 Palm Avenue",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "postalCode": "21500"
+    }
+  },
+  {
+    "name": "Laila Hassan",
+    "email": "customer@belleza.test",
+    "password": "User@123",
+    "role": "user",
+    "phone": "+20 100 000 0003",
+    "address": {
+      "street": "9 Nile View",
+      "city": "Giza",
+      "country": "Egypt",
+      "postalCode": "12511"
+    }
+  },
+  {
+    "name": "Mariam Adel",
+    "email": "mariam@belleza.test",
+    "password": "User@123",
+    "role": "user",
+    "phone": "+20 100 000 0004",
+    "address": {
+      "street": "22 Gardenia Street",
+      "city": "Cairo",
+      "country": "Egypt",
+      "postalCode": "11865"
+    }
+  },
+  {
+    "name": "Yara Fouad",
+    "email": "yara@belleza.test",
+    "password": "User@123",
+    "role": "user",
+    "phone": "+20 100 000 0005",
+    "address": {
+      "street": "5 Corniche Road",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "postalCode": "21599"
+    }
+  },
+  {
+    "name": "Salma Tarek",
+    "email": "salma@belleza.test",
+    "password": "User@123",
+    "role": "user",
+    "phone": "+20 100 000 0006",
+    "address": {
+      "street": "17 Jasmine Lane",
+      "city": "Mansoura",
+      "country": "Egypt",
+      "postalCode": "35511"
+    }
+  }
+]

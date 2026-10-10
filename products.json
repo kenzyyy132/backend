@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Eva Skin Clinic Vitamin C Serum",
+    "description": "A 15% vitamin C serum from Eva's dermatology line, made for Egyptian weather and sun exposure. It fades dark spots and post-acne marks over four to six weeks without the sting of stronger acids.",
+    "price": 385,
+    "category": "skincare",
+    "brand": "Eva Cosmetics",
+    "stock": 46,
+    "image": "/uploads/product-eva-skin-clinic-vitamin-c-serum.svg"
+  },
+  {
+    "name": "Eva Collagen Day Cream SPF 15",
+    "description": "A light collagen day cream with built-in SPF 15. It sits well under makeup, absorbs in seconds and keeps skin comfortable through a long day in Cairo humidity.",
+    "price": 245,
+    "category": "skincare",
+    "brand": "Eva Cosmetics",
+    "stock": 62,
+    "image": "/uploads/product-eva-collagen-day-cream-spf-15.svg"
+  },
+  {
+    "name": "Nefertari Argan & Almond Body Oil",
+    "description": "Cold-pressed argan blended with sweet almond oil, bottled in Nefertari's workshop. Sinks in without a greasy film and leaves a soft, warm scent that lasts.",
+    "price": 220,
+    "category": "skincare",
+    "brand": "Nefertari",
+    "stock": 34,
+    "image": "/uploads/product-nefertari-argan-almond-body-oil.svg"
+  },
+  {
+    "name": "Imtenan Black Seed Face Oil",
+    "description": "Pure Egyptian black seed oil, pressed and bottled by Imtenan. A few drops at night calm redness and strengthen a stressed moisture barrier.",
+    "price": 165,
+    "category": "skincare",
+    "brand": "Imtenan",
+    "stock": 51,
+    "image": "/uploads/product-imtenan-black-seed-face-oil.svg"
+  },
+  {
+    "name": "Eva Sun Protection SPF 50",
+    "description": "A high-protection sunscreen that finishes matte and never turns white. Reef-safe filters, sweat resistant, and formulated to suit medium to deep skin tones.",
+    "price": 310,
+    "category": "skincare",
+    "brand": "Eva Cosmetics",
+    "stock": 8,
+    "image": "/uploads/product-eva-sun-protection-spf-50.svg"
+  },
+  {
+    "name": "Harraz Damask Rose Water Toner",
+    "description": "Single-distilled damask rose water from Harraz, the old Cairo herbalist. No alcohol, no fragrance added — just a calm, hydrating step before your serum.",
+    "price": 95,
+    "category": "skincare",
+    "brand": "Harraz",
+    "stock": 88,
+    "image": "/uploads/product-harraz-damask-rose-water-toner.svg"
+  },
+  {
+    "name": "Amoun Ceramide Repair Cream",
+    "description": "A cushiony barrier cream built on a ceramide complex from Amoun's dermatology range. Fragrance free and gentle enough for reactive, post-treatment skin.",
+    "price": 275,
+    "category": "skincare",
+    "brand": "Amoun",
+    "stock": 0,
+    "image": "/uploads/product-amoun-ceramide-repair-cream.svg"
+  },
+  {
+    "name": "Eva Aloe & Cucumber Cleansing Gel",
+    "description": "A daily gel cleanser with aloe and cucumber extract that lifts sunscreen and city dust without stripping. Leaves skin comfortable, never tight.",
+    "price": 130,
+    "category": "skincare",
+    "brand": "Eva Cosmetics",
+    "stock": 74,
+    "image": "/uploads/product-eva-aloe-cucumber-cleansing-gel.svg"
+  },
+  {
+    "name": "Eva Velvet Matte Lipstick",
+    "description": "A creamy matte bullet with dense pigment — one clean pass is enough. The formula stays put through tea and never settles into lip lines.",
+    "price": 120,
+    "category": "makeup",
+    "brand": "Eva Cosmetics",
+    "stock": 130,
+    "image": "/uploads/product-eva-velvet-matte-lipstick.svg"
+  },
+  {
+    "name": "Eva Perfect Cover Foundation",
+    "description": "A buildable medium-coverage foundation in twenty shades matched to Egyptian skin tones. The satin finish blurs texture while still reading like real skin.",
+    "price": 265,
+    "category": "makeup",
+    "brand": "Eva Cosmetics",
+    "stock": 58,
+    "image": "/uploads/product-eva-perfect-cover-foundation.svg"
+  },
+  {
+    "name": "Eva Volume Lash Mascara",
+    "description": "A tapered brush that separates as it builds. Holds a curl through a full day and comes off with warm water, no tugging at the lash line.",
+    "price": 145,
+    "category": "makeup",
+    "brand": "Eva Cosmetics",
+    "stock": 96,
+    "image": "/uploads/product-eva-volume-lash-mascara.svg"
+  },
+  {
+    "name": "Harraz Kohl Eyeliner Pencil",
+    "description": "Traditional Egyptian kohl in a modern twist-up pencil. Deep matte black, glides on without dragging, and stays sharp through the day.",
+    "price": 85,
+    "category": "makeup",
+    "brand": "Harraz",
+    "stock": 145,
+    "image": "/uploads/product-harraz-kohl-eyeliner-pencil.svg"
+  },
+  {
+    "name": "Eva Silk Compact Powder",
+    "description": "A finely milled pressed powder that controls shine through humidity without flattening the face. Comes with a mirror and a proper puff.",
+    "price": 175,
+    "category": "makeup",
+    "brand": "Eva Cosmetics",
+    "stock": 6,
+    "image": "/uploads/product-eva-silk-compact-powder.svg"
+  },
+  {
+    "name": "Eva Cheek Glow Blush Duo",
+    "description": "Two coordinated shades — a soft flush and a warm highlight — in one compact. Blends with a fingertip and layers without going patchy.",
+    "price": 155,
+    "category": "makeup",
+    "brand": "Eva Cosmetics",
+    "stock": 41,
+    "image": "/uploads/product-eva-cheek-glow-blush-duo.svg"
+  },
+  {
+    "name": "Sekem Jasmine Absolute Perfume Oil",
+    "description": "Egyptian jasmine grown on Sekem's biodynamic farms and captured as a concentrated oil. Warm, honeyed and long-lasting — a little on the wrist is plenty.",
+    "price": 420,
+    "category": "perfume",
+    "brand": "Sekem",
+    "stock": 27,
+    "image": "/uploads/product-sekem-jasmine-absolute-perfume-oil.svg"
+  },
+  {
+    "name": "Harraz Musk El Tahara Roll-On",
+    "description": "The classic white musk Egyptian households have used for generations, in a practical roll-on. Clean, powdery and gentle enough for daily wear.",
+    "price": 110,
+    "category": "perfume",
+    "brand": "Harraz",
+    "stock": 162,
+    "image": "/uploads/product-harraz-musk-el-tahara-roll-on.svg"
+  },
+  {
+    "name": "Sekem Egyptian Geranium Eau de Toilette",
+    "description": "Geranium and bergamot from organic Egyptian fields, lifted with a clean musk. Light enough for the office and for hot weather.",
+    "price": 365,
+    "category": "perfume",
+    "brand": "Sekem",
+    "stock": 33,
+    "image": "/uploads/product-sekem-egyptian-geranium-eau-de-toilette.svg"
+  },
+  {
+    "name": "Nefertari Amber & Oud Perfume Oil",
+    "description": "A smoky amber built on oud and a thread of vanilla, blended in small batches. Made for cool evenings, and it leaves a trail people ask about.",
+    "price": 480,
+    "category": "perfume",
+    "brand": "Nefertari",
+    "stock": 14,
+    "image": "/uploads/product-nefertari-amber-oud-perfume-oil.svg"
+  },
+  {
+    "name": "Imtenan Lotus Blossom Body Mist",
+    "description": "An alcohol-light mist scented with Egyptian lotus and a touch of neroli. Refreshing rather than heavy, and kind to hair and skin.",
+    "price": 135,
+    "category": "perfume",
+    "brand": "Imtenan",
+    "stock": 0,
+    "image": "/uploads/product-imtenan-lotus-blossom-body-mist.svg"
+  },
+  {
+    "name": "Harraz Sandalwood & Rose Attar",
+    "description": "A traditional attar of Indian sandalwood laid under Egyptian rose. Alcohol free, deeply warm, and it develops differently on every skin.",
+    "price": 295,
+    "category": "perfume",
+    "brand": "Harraz",
+    "stock": 22,
+    "image": "/uploads/product-harraz-sandalwood-rose-attar.svg"
+  },
+  {
+    "name": "Eva Daily Glow Ritual Set",
+    "description": "The aloe cleansing gel, vitamin C serum and collagen day cream in full size, boxed together. Everything needed for a complete morning routine, at a saving.",
+    "price": 690,
+    "category": "sets",
+    "brand": "Eva Cosmetics",
+    "stock": 25,
+    "image": "/uploads/product-eva-daily-glow-ritual-set.svg"
+  },
+  {
+    "name": "Nefertari Hammam Gift Box",
+    "description": "A traditional Egyptian bath ritual in one box: olive oil soap, a loofah mitt, argan body oil and a small jar of Dead Sea salt scrub.",
+    "price": 540,
+    "category": "sets",
+    "brand": "Nefertari",
+    "stock": 18,
+    "image": "/uploads/product-nefertari-hammam-gift-box.svg"
+  },
+  {
+    "name": "Harraz Attar Discovery Collection",
+    "description": "Five ten-millilitre attars covering the full Harraz range — musk, rose, sandalwood, jasmine and amber — with a voucher toward a full bottle.",
+    "price": 450,
+    "category": "sets",
+    "brand": "Harraz",
+    "stock": 30,
+    "image": "/uploads/product-harraz-attar-discovery-collection.svg"
+  },
+  {
+    "name": "Eva Everyday Face Edit",
+    "description": "A curated makeup set with the cover foundation, cheek glow duo and a velvet matte lipstick in a universally flattering rose. Packs flat for travel.",
+    "price": 495,
+    "category": "sets",
+    "brand": "Eva Cosmetics",
+    "stock": 4,
+    "image": "/uploads/product-eva-everyday-face-edit.svg"
+  },
+  {
+    "name": "Imtenan Pure Oils Trio",
+    "description": "Black seed, argan and jojoba oils in matched amber bottles, cold pressed and unblended. The three oils that cover face, body and hair.",
+    "price": 380,
+    "category": "sets",
+    "brand": "Imtenan",
+    "stock": 36,
+    "image": "/uploads/product-imtenan-pure-oils-trio.svg"
+  },
+  {
+    "name": "Eva Bridal Luminous Collection",
+    "description": "A six-piece set built for long wear under photography, from primer through setting powder. Presented in a keepsake blush lacquer case.",
+    "price": 1250,
+    "category": "sets",
+    "brand": "Eva Cosmetics",
+    "stock": 9,
+    "image": "/uploads/product-eva-bridal-luminous-collection.svg"
+  },
+  {
+    "name": "Shaan Sun Shield SPF 50",
+    "description": "A high-protection sunscreen from Shaan that shields against UVA and UVB without the white cast. Light enough to layer under makeup and made for long Egyptian summers.",
+    "price": 280,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 64,
+    "shape": "tube",
+    "image": "/uploads/product-shaan-sun-shield-spf-50.svg"
+  },
+  {
+    "name": "Shaan Rejuvenation Cream",
+    "description": "A rich night cream that gives long-lasting hydration and supports collagen production. Formulated for dry and very dry skin that needs more than a light moisturiser.",
+    "price": 320,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 38,
+    "shape": "jar",
+    "image": "/uploads/product-shaan-rejuvenation-cream.svg"
+  },
+  {
+    "name": "Shaan Antioxidant Facial Cleanser",
+    "description": "A gentle antioxidant cleanser made for sensitive skin. Lifts sunscreen and pollution without stripping, and leaves nothing tight behind.",
+    "price": 195,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 72,
+    "shape": "tube",
+    "image": "/uploads/product-shaan-antioxidant-facial-cleanser.svg"
+  },
+  {
+    "name": "Shaan Hydrating Micellar Water",
+    "description": "A micellar makeup remover that takes off even waterproof formulas in one pass. No rinsing needed and no sting around the eyes.",
+    "price": 150,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 90,
+    "shape": "dropper",
+    "image": "/uploads/product-shaan-hydrating-micellar-water.svg"
+  },
+  {
+    "name": "Shaan Medicated Lip Balm",
+    "description": "Pure vaseline and glycerin in a nourishing balm that repairs chapped lips overnight. Unscented, and safe to reapply as often as you like.",
+    "price": 65,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 180,
+    "shape": "lipstick",
+    "image": "/uploads/product-shaan-medicated-lip-balm.svg"
+  },
+  {
+    "name": "Shaan Nail Repair Serum",
+    "description": "A treatment serum with biotin, hyaluronic acid, marine collagen and a UV filter. Strengthens peeling nails over a few weeks of nightly use.",
+    "price": 175,
+    "category": "skincare",
+    "brand": "Shaan",
+    "stock": 44,
+    "shape": "dropper",
+    "image": "/uploads/product-shaan-nail-repair-serum.svg"
+  },
+  {
+    "name": "Bubblzz Shea Body Butter",
+    "description": "A whipped shea and cocoa butter made from scratch in small batches. Sinks in properly instead of sitting on top, and the scent stays soft all day.",
+    "price": 185,
+    "category": "skincare",
+    "brand": "Bubblzz",
+    "stock": 56,
+    "shape": "jar",
+    "image": "/uploads/product-bubblzz-shea-body-butter.svg"
+  },
+  {
+    "name": "Bubblzz Coffee Body Scrub",
+    "description": "Ground Egyptian coffee blended with sugar and essential oils. Buffs away dryness without scratching, and rinses clean with no greasy film.",
+    "price": 160,
+    "category": "skincare",
+    "brand": "Bubblzz",
+    "stock": 48,
+    "shape": "jar",
+    "image": "/uploads/product-bubblzz-coffee-body-scrub.svg"
+  },
+  {
+    "name": "Bubblzz Handmade Olive Soap Bar",
+    "description": "A cold-process olive oil soap, cured for six weeks and free from harsh detergents. Gentle enough for the face and kind to eczema-prone skin.",
+    "price": 70,
+    "category": "skincare",
+    "brand": "Bubblzz",
+    "stock": 140,
+    "shape": "soap",
+    "image": "/uploads/product-bubblzz-handmade-olive-soap-bar.svg"
+  },
+  {
+    "name": "Bubblzz Natural Deodorant Balm",
+    "description": "An aluminium-free deodorant balm built on arrowroot and essential oils. Holds through a full Cairo day without blocking pores or staining shirts.",
+    "price": 95,
+    "category": "skincare",
+    "brand": "Bubblzz",
+    "stock": 0,
+    "shape": "jar",
+    "image": "/uploads/product-bubblzz-natural-deodorant-balm.svg"
+  },
+  {
+    "name": "Bubblzz Vanilla & Musk Body Mist",
+    "description": "A light body mist with warm vanilla over clean musk, made from organic and essential oils. Soft enough to layer over your usual perfume.",
+    "price": 140,
+    "category": "perfume",
+    "brand": "Bubblzz",
+    "stock": 67,
+    "shape": "flacon",
+    "image": "/uploads/product-bubblzz-vanilla-musk-body-mist.svg"
+  },
+  {
+    "name": "Caroline Beauty Custom Match Foundation",
+    "description": "A buildable foundation shade-matched to Egyptian skin tones, from the brand known for its custom-blending service. Satin finish that photographs beautifully.",
+    "price": 340,
+    "category": "makeup",
+    "brand": "Caroline Beauty",
+    "stock": 42,
+    "shape": "dropper",
+    "image": "/uploads/product-caroline-beauty-custom-match-foundation.svg"
+  },
+  {
+    "name": "Caroline Beauty Signature Matte Lipstick",
+    "description": "A soft-matte bullet with dense pigment in one pass. The shade range runs from everyday nudes to the deep reds Egyptian brides ask for.",
+    "price": 165,
+    "category": "makeup",
+    "brand": "Caroline Beauty",
+    "stock": 88,
+    "shape": "lipstick",
+    "image": "/uploads/product-caroline-beauty-signature-matte-lipstick.svg"
+  },
+  {
+    "name": "Dorella Brow Styling Soap",
+    "description": "The brow soap that made Dorella a household name. Brushes brows up and holds them there all day, with no crunch and no flaking.",
+    "price": 110,
+    "category": "makeup",
+    "brand": "Dorella",
+    "stock": 155,
+    "shape": "soap",
+    "image": "/uploads/product-dorella-brow-styling-soap.svg"
+  },
+  {
+    "name": "Dorella Shimmer Highlighter",
+    "description": "A pressed highlighter milled fine enough to glow rather than glitter. Works on the high points of the face or pressed over cream blush.",
+    "price": 195,
+    "category": "makeup",
+    "brand": "Dorella",
+    "stock": 7,
+    "shape": "compact",
+    "image": "/uploads/product-dorella-shimmer-highlighter.svg"
+  },
+  {
+    "name": "Karmel Beauty Lip & Cheek Tint",
+    "description": "One tint for lips and cheeks, buildable from a wash of colour to a full flush. Weightless, and it does not dry the lips out.",
+    "price": 145,
+    "category": "makeup",
+    "brand": "Karmel Beauty",
+    "stock": 96,
+    "shape": "dropper",
+    "image": "/uploads/product-karmel-beauty-lip-cheek-tint.svg"
+  },
+  {
+    "name": "Karmel Beauty Precision Lip Liner",
+    "description": "A creamy liner that glides without dragging and stays put under gloss. Sharpens to a fine point for a clean edge.",
+    "price": 95,
+    "category": "makeup",
+    "brand": "Karmel Beauty",
+    "stock": 120,
+    "shape": "lipstick",
+    "image": "/uploads/product-karmel-beauty-precision-lip-liner.svg"
+  },
+  {
+    "name": "Grazel Bold Eyeshadow Palette",
+    "description": "Twelve high-pigment shades — warm neutrals through to the bold colours Grazel is known for. Blends easily and costs a fraction of the imports.",
+    "price": 240,
+    "category": "makeup",
+    "brand": "Grazel",
+    "stock": 33,
+    "shape": "compact",
+    "image": "/uploads/product-grazel-bold-eyeshadow-palette.svg"
+  },
+  {
+    "name": "Glaze by KG Hydrating Lip Gloss",
+    "description": "A non-sticky gloss that genuinely moisturises, with a mirror shine over any lipstick. Comfortable enough to wear on bare lips.",
+    "price": 125,
+    "category": "makeup",
+    "brand": "Glaze by KG",
+    "stock": 110,
+    "shape": "lipstick",
+    "image": "/uploads/product-glaze-by-kg-hydrating-lip-gloss.svg"
+  },
+  {
+    "name": "Mala Beauty Vegan Volume Mascara",
+    "description": "A vegan, dermatologist-approved mascara made for sensitive eyes and contact lens wearers. Builds volume without clumping or flaking.",
+    "price": 210,
+    "category": "makeup",
+    "brand": "Mala Beauty",
+    "stock": 58,
+    "shape": "tube",
+    "image": "/uploads/product-mala-beauty-vegan-volume-mascara.svg"
+  },
+  {
+    "name": "Egyptian Makeup Starter Kit",
+    "description": "Five local heroes in one box: the Caroline matte lipstick, Dorella brow soap, Karmel lip and cheek tint, Glaze gloss and a Grazel mini palette.",
+    "price": 620,
+    "category": "sets",
+    "brand": "Caroline Beauty",
+    "stock": 21,
+    "shape": "giftBox",
+    "image": "/uploads/product-egyptian-makeup-starter-kit.svg"
+  },
+  {
+    "name": "Bubblzz Bath Ritual Box",
+    "description": "The olive soap, coffee scrub, shea body butter and vanilla body mist boxed together with a loofah mitt. A full bath ritual at a saving.",
+    "price": 480,
+    "category": "sets",
+    "brand": "Bubblzz",
+    "stock": 26,
+    "shape": "giftBox",
+    "image": "/uploads/product-bubblzz-bath-ritual-box.svg"
+  }
+]

@@ -1,2 +1,23 @@
+# Dependencies
 node_modules/
+
+# Environment
 .env
+.env.local
+.env.*.local
+.env.backup-before-claude
+
+# Uploaded images (keep the folder, ignore its contents)
+uploads/*
+!uploads/product-*.svg
+!uploads/.gitkeep
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
